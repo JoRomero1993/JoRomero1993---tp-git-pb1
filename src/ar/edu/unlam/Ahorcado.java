@@ -10,7 +10,7 @@ public class Ahorcado {
 		 int  b;
 		 int opcion;
 		 int resultado;
-		 
+		  //helooooooo//
 		 //Scanner teclado= new Scanner (System.in);
 		 do{
 		 System.out.println("Ingrese su operación /n 1 para sumar /n 2 para restar /n 3 para multiplicar /n 4 para dividir");
